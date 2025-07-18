@@ -4,7 +4,7 @@
 
 A Streamlit app for performing technical analysis on selected S&P 500 stocks.
 
-🔗 **Live App:** [Click here to launch](https://thoms509-stock-analysis-stock-app4-bbqlau.streamlit.app/)
+🔗 **Live App:** [Click here to launch](https://stockanalysisdashboardzt.streamlit.app/)
 
 ## Features
 
