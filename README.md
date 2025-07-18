@@ -4,7 +4,7 @@
 
 A Streamlit app for performing technical analysis on selected S&P 500 stocks.
 
-🔗 **Live App:** [Click here to launch]([[https://thoms509-stock-analysis.streamlit.app/](http://localhost:8501/)](http://localhost:8501/))
+🔗 **Live App:** [Click here to launch](https://thoms509-stock-analysis-stock-app4-bbqlau.streamlit.app/)
 
 ## Features
 
@@ -13,3 +13,4 @@ A Streamlit app for performing technical analysis on selected S&P 500 stocks.
 - Calculate annualized return and risk
 - Generate Buy/Hold/Sell recommendations based on thresholds
 - View risk vs return scatterplot
+# stock-analysis-dashboard
