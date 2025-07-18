@@ -1,5 +1,3 @@
-# stock-analysis
-
 # Stock Technical Analysis Dashboard
 
 A Streamlit app for performing technical analysis on selected S&P 500 stocks.
